@@ -1,15 +1,15 @@
 # Result University
 
-## Поток Middle, группа 15
+## Stream - Middle
+## Group 15
+### Student - Andreev Yuriy
 
-### Студент - Андреев Юрий
+### Project - Sounds of Nature
 
-### Проект - Sounds of Nature
-
-* **Цель проекта** - практическое применение знаний, полученных во время прохлждения модуля №2 "Webpack"
-*  **Задачи** - настроить полностью Webpack и сделать небольшое приложение, которое будет воспроизводить определённый шум природы
-* **Особенности:**
-  * аудио не должны накладываться друг на друга, предыдущий звук должен выключаться при включении следующего
-  * при повторном нажатии на одну и ту же кнопку воспроизведение приостанавливается, а если после этого нажать еще раз, то воспроизведение продолжится
-  * после нажатия на кнопку для страницы устанавливается соответствующая фоновая картинка
+* **Project objective** - practical application of the knowledge acquired during module 2 ‘Webpack’
+*  **Tasks** - set up a fully Webpack and make a small application that will play a certain sound of nature
+* **Features:**
+  * audio should not overlap, the previous audio should be switched off when the next audio is switched on
+  * if you press the same button repeatedly, playback pauses, and if you press it again afterwards, playback continues.
+  * after clicking on the button, the corresponding background image is set for the page
 
